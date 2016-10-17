@@ -74,7 +74,7 @@ namespace PolimorfismoForm
             this.Controls.Add(this.btnT);
             this.Controls.Add(this.btnC);
             this.Name = "FrmDecision";
-            this.Text = "FrmDecision";
+            this.Text = "Elige";
             this.Load += new System.EventHandler(this.FrmDecision_Load);
             this.ResumeLayout(false);
 
