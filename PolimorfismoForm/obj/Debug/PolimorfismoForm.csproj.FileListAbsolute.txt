@@ -10,3 +10,6 @@ c:\users\luis felipe reyes g\documents\visual studio 2015\Projects\PolimorfismoF
 c:\users\luis felipe reyes g\documents\visual studio 2015\Projects\PolimorfismoForm\PolimorfismoForm\bin\Debug\PolimorfismoForm.pdb
 c:\users\luis felipe reyes g\documents\visual studio 2015\Projects\PolimorfismoForm\PolimorfismoForm\obj\Debug\PolimorfismoForm.exe
 c:\users\luis felipe reyes g\documents\visual studio 2015\Projects\PolimorfismoForm\PolimorfismoForm\obj\Debug\PolimorfismoForm.pdb
+C:\Users\Luis Felipe Reyes G\Documents\GitHub\FrmPolimorfismo\FrmPolimorfismo\PolimorfismoForm\bin\Debug\PolimorfismoForm.exe.config
+C:\Users\Luis Felipe Reyes G\Documents\GitHub\FrmPolimorfismo\FrmPolimorfismo\PolimorfismoForm\obj\Debug\PolimorfismoForm.exe
+C:\Users\Luis Felipe Reyes G\Documents\GitHub\FrmPolimorfismo\FrmPolimorfismo\PolimorfismoForm\obj\Debug\PolimorfismoForm.pdb
