@@ -41,7 +41,7 @@ namespace PolimorfismoForm
             this.btnC.Name = "btnC";
             this.btnC.Size = new System.Drawing.Size(260, 57);
             this.btnC.TabIndex = 3;
-            this.btnC.Text = "Circulo";
+            this.btnC.Text = "Circle";
             this.btnC.UseVisualStyleBackColor = true;
             this.btnC.Click += new System.EventHandler(this.btnC_Click);
             // 
@@ -51,7 +51,7 @@ namespace PolimorfismoForm
             this.btnT.Name = "btnT";
             this.btnT.Size = new System.Drawing.Size(256, 58);
             this.btnT.TabIndex = 6;
-            this.btnT.Text = "Triangulo";
+            this.btnT.Text = "Triangle";
             this.btnT.UseVisualStyleBackColor = true;
             this.btnT.Click += new System.EventHandler(this.btnT_Click);
             // 
@@ -61,7 +61,7 @@ namespace PolimorfismoForm
             this.btnR.Name = "btnR";
             this.btnR.Size = new System.Drawing.Size(256, 63);
             this.btnR.TabIndex = 7;
-            this.btnR.Text = "Rectangulo";
+            this.btnR.Text = "Square";
             this.btnR.UseVisualStyleBackColor = true;
             this.btnR.Click += new System.EventHandler(this.btnR_Click);
             // 
